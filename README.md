@@ -1,3 +1,2 @@
 # hello-world
-boom
-Changing is always good ;)
+A mock repository
